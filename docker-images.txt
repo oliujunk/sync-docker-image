@@ -2,5 +2,4 @@
 # 一行一个
 # nginx:1.14.2
 # alpine
-debian
-lddsb/drone-dingtalk-message
+golang:1.20
