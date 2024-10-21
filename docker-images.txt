@@ -11,3 +11,4 @@ docker.io/bitnami/bitnami-shell:10
 docker.io/bitnami/zookeeper:3.6.2-debian-10-r185
 dolphinscheduler-master:latest
 apache/dolphinscheduler-worker:latest
+apache/dolphinscheduler-tools:latest
