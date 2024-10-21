@@ -2,5 +2,6 @@
 # 一行一个
 # nginx:1.14.2
 # alpine
-alpine:3.17
-golang:alpine3.17
+apache/dolphinscheduler-alert-server:latest
+apache/dolphinscheduler-api:latest
+docker.io/bitnami/minio:2022.10.29-debian-11-r0
