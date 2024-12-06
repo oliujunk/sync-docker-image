@@ -5,4 +5,6 @@
 
 #apache/rocketmq:5.3.1
 #apacherocketmq/rocketmq-dashboard
-bitnami/kafka:latest
+#bitnami/kafka:latest
+bitnami/prometheus:latest
+grafana/grafana:latest
