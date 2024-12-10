@@ -9,4 +9,5 @@
 #bitnami/prometheus:latest
 #grafana/grafana:latest
 #prom/prometheus:latest
-apachepulsar/pulsar:4.0.1
+#apachepulsar/pulsar:4.0.1
+apache/rocketmq-exporter
