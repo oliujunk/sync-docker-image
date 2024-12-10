@@ -8,4 +8,5 @@
 #bitnami/kafka:latest
 #bitnami/prometheus:latest
 #grafana/grafana:latest
-prom/prometheus:latest
+#prom/prometheus:latest
+apachepulsar/pulsar:4.0.1
