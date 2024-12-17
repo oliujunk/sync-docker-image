@@ -10,4 +10,5 @@
 #grafana/grafana:latest
 #prom/prometheus:latest
 #apachepulsar/pulsar:4.0.1
-apache/rocketmq-exporter
+#apache/rocketmq-exporter
+rabbitmq:4.0.4-management
