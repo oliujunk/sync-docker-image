@@ -11,4 +11,5 @@
 #prom/prometheus:latest
 #apachepulsar/pulsar:4.0.1
 #apache/rocketmq-exporter
-rabbitmq:4.0.4-management
+#rabbitmq:4.0.4-management
+emqx:5.8.3
