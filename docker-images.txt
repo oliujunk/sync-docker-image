@@ -12,4 +12,7 @@
 #apachepulsar/pulsar:4.0.1
 #apache/rocketmq-exporter
 #rabbitmq:4.0.4-management
-emqx:5.8.3
+#emqx:5.8.3
+redis:5.0.14
+mysql:8.0.26
+mongo:5.0.6
