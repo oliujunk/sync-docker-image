@@ -17,4 +17,5 @@
 #mysql:8.0.26
 #mongo:5.0.6
 #740162752/nps
-duan2001/npc
+#duan2001/npc
+openjdk:8-jre
