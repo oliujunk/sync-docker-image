@@ -18,4 +18,5 @@
 #mongo:5.0.6
 #740162752/nps
 #duan2001/npc
-openjdk:8-jre
+#openjdk:8-jre
+alpine:3.21.3
