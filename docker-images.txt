@@ -19,4 +19,5 @@
 #740162752/nps
 #duan2001/npc
 #openjdk:8-jre
-alpine:3.21.3
+#alpine:3.21.3
+openjdk:21-jdk
