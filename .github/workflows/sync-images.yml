@@ -39,7 +39,7 @@ jobs:
 
             image=$(echo $line |awk -F '/' '{print $NF}')
             
-            skopeo copy --override-arch=arm64 docker://${line}  docker://${{ secrets.ALIYUN_REGISTRY }}/${{ secrets.ALIYUN_NAMESPACE }}/${image}
+            skopeo copy --all docker://${line}  docker://${{ secrets.ALIYUN_REGISTRY }}/${{ secrets.ALIYUN_NAMESPACE }}/${image}
 
       
         done < docker-images.txt 
