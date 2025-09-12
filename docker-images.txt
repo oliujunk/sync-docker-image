@@ -25,4 +25,5 @@
 #openjdk:21-jdk-slim
 #powerjob/powerjob-server
 #continuumio/miniconda3
-ultralytics/ultralytics:latest
+#ultralytics/ultralytics:latest
+cloudreve/cloudreve
