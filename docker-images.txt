@@ -26,4 +26,5 @@
 #powerjob/powerjob-server
 #continuumio/miniconda3
 #ultralytics/ultralytics:latest
-cloudreve/cloudreve
+#cloudreve/cloudreve
+apache/activemq-classic
