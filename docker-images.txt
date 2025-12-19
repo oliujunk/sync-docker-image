@@ -28,4 +28,5 @@
 #ultralytics/ultralytics:latest
 #cloudreve/cloudreve
 #apache/activemq-classic
-ubuntu:22.04
+#ubuntu:22.04
+kasmweb/chrome:1.18.0
