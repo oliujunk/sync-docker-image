@@ -27,4 +27,5 @@
 #continuumio/miniconda3
 #ultralytics/ultralytics:latest
 #cloudreve/cloudreve
-apache/activemq-classic
+#apache/activemq-classic
+ubuntu:22.04
