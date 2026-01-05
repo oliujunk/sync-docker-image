@@ -30,4 +30,5 @@
 #apache/activemq-classic
 #ubuntu:22.04
 #kasmweb/chrome:1.18.0
-tiangolo/nginx-rtmp
+#tiangolo/nginx-rtmp
+nginx
