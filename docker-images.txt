@@ -32,4 +32,5 @@
 #kasmweb/chrome:1.18.0
 #tiangolo/nginx-rtmp
 #nginx
-jc21/nginx-proxy-manager
+#jc21/nginx-proxy-manager
+ruvnet/wifi-densepose
