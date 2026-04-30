@@ -33,4 +33,4 @@
 #tiangolo/nginx-rtmp
 #nginx
 #jc21/nginx-proxy-manager
-ruvnet/wifi-densepose
+rabbitmq:4.3.0-management
