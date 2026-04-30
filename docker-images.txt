@@ -33,4 +33,5 @@
 #tiangolo/nginx-rtmp
 #nginx
 #jc21/nginx-proxy-manager
-rabbitmq:4.3.0-management
+#rabbitmq:4.3.0-management
+redis:8.6.2
