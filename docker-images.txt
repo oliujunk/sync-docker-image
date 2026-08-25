@@ -34,4 +34,5 @@
 #nginx
 #jc21/nginx-proxy-manager
 #rabbitmq:4.3.0-management
-redis:8.6.2
+#redis:8.6.2
+mongo:5.0.33
