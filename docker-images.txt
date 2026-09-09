@@ -36,4 +36,5 @@
 #rabbitmq:4.3.0-management
 #redis:8.6.2
 #mongo:5.0.33
-rclone/rclone:1.75.0
+#rclone/rclone:1.75.0
+postgres:18.6
