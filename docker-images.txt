@@ -41,4 +41,5 @@
 #timescale/timescaledb:2.30.0-pg18
 #rabbitmq:4.4.0-management
 #rustfs/rustfs:1.0.4
-eclipse-temurin:25-jre-jammy
+#eclipse-temurin:25-jre-jammy
+timescale/timescaledb:2.32.0-pg18
